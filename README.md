@@ -104,9 +104,9 @@ This project demonstrates a solid understanding of the data analytics lifecycle,
 
 Feel free to explore the project and reach out with any questions or feedback. I'm excited to connect with like-minded professionals and recruiters in the data analytics field.
 
-**LinkedIn:** https://www.linkedin.com/in/devisuhitha/
+**LinkedIn:** www.linkedin.com/in/arpit-gaba-8502b725a
 
-**Email:** cdevisuhitha@gmail.com
+**Email:** arpitgaba2010@gmail.com
 
 
 
